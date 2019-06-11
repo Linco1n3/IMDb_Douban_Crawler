@@ -1,0 +1,251 @@
+rating,title,year,votes,top 250 rank
+9.2,The Shawshank Redemption,1994,2100703,1
+9.2,The Godfather,1972,1442087,2
+9.0,The Godfather: Part II,1974,1002430,3
+9.0,The Dark Knight,2008,2066995,4
+8.9,12 Angry Men,1957,596305,5
+8.9,Schindler's List,1993,1089436,6
+8.9,The Lord of the Rings: The Return of the King,2003,1495440,7
+8.9,Pulp Fiction,1994,1642618,8
+8.8,"The Good, the Bad and the Ugly",1966,624186,9
+8.8,Fight Club,1999,1679512,10
+8.8,The Lord of the Rings: The Fellowship of the Ring,2001,1511290,11
+8.7,Forrest Gump,1994,1612273,12
+8.7,Inception,2010,1841066,13
+8.7,Star Wars: Episode V - The Empire Strikes Back,1980,1053231,14
+8.7,The Lord of the Rings: The Two Towers,2002,1352250,15
+8.7,One Flew Over the Cuckoo's Nest,1975,832410,16
+8.7,Goodfellas,1990,907041,17
+8.6,The Matrix,1999,1509539,18
+8.6,Avengers: Endgame,2019,441135,19
+8.6,Seven Samurai,1954,284693,20
+8.6,Se7en,1995,1288654,21
+8.6,City of God,2002,645467,22
+8.6,Star Wars: Episode IV - A New Hope,1977,1122377,23
+8.6,The Silence of the Lambs,1991,1134785,24
+8.6,It's a Wonderful Life,1946,358029,25
+8.6,Life Is Beautiful,1997,553887,26
+8.5,Spirited Away,2001,558657,27
+8.5,Saving Private Ryan,1998,1112018,28
+8.5,The Usual Suspects,1995,908061,29
+8.5,Léon: The Professional,1994,926582,30
+8.5,The Green Mile,1999,1016543,31
+8.5,Interstellar,2014,1299334,32
+8.5,Psycho,1960,538830,33
+8.5,American History X,1998,952146,34
+8.5,City Lights,1931,148015,35
+8.5,Casablanca,1942,477192,36
+8.5,Once Upon a Time in the West,1968,272307,37
+8.5,The Pianist,2002,644051,38
+8.5,Modern Times,1936,191530,39
+8.5,The Intouchables,2011,677343,40
+8.5,The Departed,2006,1076629,41
+8.5,Back to the Future,1985,936909,42
+8.5,Terminator 2: Judgment Day,1991,909089,43
+8.5,Whiplash,2014,616916,44
+8.5,The Lion King,1994,835903,45
+8.5,Rear Window,1954,399804,46
+8.5,Gladiator,2000,1213171,47
+8.5,Raiders of the Lost Ark,1981,812982,48
+8.5,The Prestige,2006,1066481,49
+8.4,Apocalypse Now,1979,549382,50
+8.4,Memento,2000,1031564,51
+8.4,Alien,1979,714997,52
+8.4,Grave of the Fireflies,1988,197508,53
+8.4,Cinema Paradiso,1988,202320,54
+8.4,The Great Dictator,1940,181500,55
+8.4,Spider-Man: Into the Spider-Verse,2018,210869,56
+8.4,Sunset Boulevard,1950,180076,57
+8.4,The Lives of Others,2006,323730,58
+8.4,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,415662,59
+8.4,Avengers: Infinity War,2018,670926,60
+8.4,Paths of Glory,1957,157398,61
+8.4,Django Unchained,2012,1211405,62
+8.4,The Shining,1980,782175,63
+8.4,WALL·E,2008,907152,64
+8.4,Princess Mononoke,1997,295301,65
+8.4,Witness for the Prosecution,1957,92905,66
+8.3,Oldboy,2003,459632,67
+8.3,The Dark Knight Rises,2012,1387769,68
+8.3,Aliens,1986,601531,69
+8.3,American Beauty,1999,990967,70
+8.3,Once Upon a Time in America,1984,278361,71
+8.3,Coco,2017,277194,72
+8.3,Das Boot,1981,210548,73
+8.3,Citizen Kane,1941,364298,74
+8.3,Braveheart,1995,892013,75
+8.3,Vertigo,1958,321297,76
+8.3,North by Northwest,1959,272676,77
+8.3,Your Name.,2016,134084,78
+8.3,Reservoir Dogs,1992,824755,79
+8.3,Star Wars: Episode VI - Return of the Jedi,1983,862565,80
+8.3,M,1931,128650,81
+8.3,Amadeus,1984,337681,82
+8.3,Requiem for a Dream,2000,700768,83
+8.3,Dangal,2016,123638,84
+8.3,3 Idiots,2009,300880,85
+8.3,Toy Story,1995,793663,86
+8.3,2001: A Space Odyssey,1968,543259,87
+8.3,Like Stars on Earth,2007,142741,88
+8.3,Eternal Sunshine of the Spotless Mind,2004,825922,89
+8.3,Lawrence of Arabia,1962,243130,90
+8.3,A Clockwork Orange,1971,689916,91
+8.3,Singin' in the Rain,1952,197570,92
+8.3,Amélie,2001,652551,93
+8.3,Inglourious Basterds,2009,1120097,94
+8.3,Double Indemnity,1944,128735,95
+8.3,Taxi Driver,1976,637563,96
+8.3,Full Metal Jacket,1987,610409,97
+8.3,Bicycle Thieves,1948,128147,98
+8.3,To Kill a Mockingbird,1962,272795,99
+8.3,Good Will Hunting,1997,767615,100
+8.3,The Kid,1921,97922,101
+8.3,The Sting,1973,220742,102
+8.3,The Hunt,2012,242765,103
+8.3,Toy Story 3,2010,682218,104
+8.3,Snatch,2000,719391,105
+8.2,Scarface,1983,665537,106
+8.2,The Apartment,1960,144581,107
+8.2,For a Few Dollars More,1965,206789,108
+8.2,Metropolis,1927,144555,109
+8.2,Monty Python and the Holy Grail,1975,462341,110
+8.2,L.A. Confidential,1997,494366,111
+8.2,A Separation,2011,197684,112
+8.2,Indiana Jones and the Last Crusade,1989,634867,113
+8.2,Up,2009,846257,114
+8.2,Rashomon,1950,135554,115
+8.2,All About Eve,1950,109366,116
+8.2,Batman Begins,2005,1194510,117
+8.2,Some Like It Hot,1959,221296,118
+8.2,Yojimbo,1961,98424,119
+8.2,Downfall,2004,306190,120
+8.2,Unforgiven,1992,342075,121
+8.2,Die Hard,1988,721144,122
+8.2,Heat,1995,523979,123
+8.2,The Treasure of the Sierra Madre,1948,103496,124
+8.2,Incendies,2010,124156,125
+8.2,Ikiru,1952,58628,126
+8.2,Green Book,2018,204972,127
+8.2,Raging Bull,1980,288993,128
+8.2,Children of Heaven,1997,53574,129
+8.2,The Great Escape,1963,204992,130
+8.2,Pan's Labyrinth,2006,572224,131
+8.2,Chinatown,1974,265994,132
+8.2,My Neighbor Totoro,1988,238856,133
+8.2,Howl's Moving Castle,2004,282894,134
+8.2,The Third Man,1949,145176,135
+8.2,Ran,1985,99535,136
+8.2,My Father and My Son,2005,67915,137
+8.2,Judgment at Nuremberg,1961,61794,138
+8.2,The Secret in Their Eyes,2009,173009,139
+8.2,The Gold Rush,1925,89558,140
+8.2,A Beautiful Mind,2001,771029,141
+8.2,The Bridge on the River Kwai,1957,186212,142
+8.2,Casino,1995,414156,143
+8.2,"Lock, Stock and Two Smoking Barrels",1998,493266,144
+8.1,The Seventh Seal,1957,143552,145
+8.1,"Three Billboards Outside Ebbing, Missouri",2017,344047,146
+8.1,On the Waterfront,1954,128843,147
+8.1,The Wolf of Wall Street,2013,1035358,148
+8.1,The Elephant Man,1980,200368,149
+8.1,Inside Out,2015,536181,150
+8.1,V for Vendetta,2005,952439,151
+8.1,Mr. Smith Goes to Washington,1939,98222,152
+8.1,Room,2015,316791,153
+8.1,Warrior,2011,403755,154
+8.1,Blade Runner,1982,627615,155
+8.1,Dial M for Murder,1954,140587,156
+8.1,There Will Be Blood,2007,463579,157
+8.1,No Country for Old Men,2007,767240,158
+8.1,Wild Strawberries,1957,84238,159
+8.1,The Sixth Sense,1999,844675,160
+8.1,The General,1926,71779,161
+8.1,Trainspotting,1996,589747,162
+8.1,Andhadhun,2018,43409,163
+8.1,Gone with the Wind,1939,264220,164
+8.1,The Thing,1982,330898,165
+8.1,Fargo,1996,561753,166
+8.1,Come and See,1985,43530,167
+8.1,Finding Nemo,2003,867428,168
+8.1,Gran Torino,2008,669977,169
+8.1,The Deer Hunter,1978,284321,170
+8.1,Shutter Island,2010,1005960,171
+8.1,The Big Lebowski,1998,663491,172
+8.1,Kill Bill: Vol. 1,2003,905909,173
+8.1,Sherlock Jr.,1924,33140,174
+8.1,Cool Hand Luke,1967,148666,175
+8.1,Tokyo Story,1953,43842,176
+8.1,Mary and Max,2009,150892,177
+8.1,Rebecca,1940,110856,178
+8.1,Hacksaw Ridge,2016,366904,179
+8.1,Jurassic Park,1993,783284,180
+8.1,How to Train Your Dragon,2010,611299,181
+8.1,Gone Girl,2014,761592,182
+8.1,Wild Tales,2014,151123,183
+8.1,The Truman Show,1998,839004,184
+8.1,Stalker,1979,97938,185
+8.1,Sunrise,1927,43287,186
+8.1,The Grand Budapest Hotel,2014,633604,187
+8.1,In the Name of the Father,1993,141434,188
+8.1,Stand by Me,1986,333637,189
+8.1,It Happened One Night,1934,84789,190
+8.1,Platoon,1986,351325,191
+8.1,Into the Wild,2007,524327,192
+8.1,Memories of Murder,2003,100863,193
+8.1,Network,1976,131090,194
+8.1,Monty Python's Life of Brian,1979,334870,195
+8.1,Persona,1966,87083,196
+8.1,Ben-Hur,1959,201573,197
+8.1,12 Years a Slave,2013,577301,198
+8.1,Million Dollar Baby,2004,586438,199
+8.1,Hotel Rwanda,2004,313445,200
+8.1,Before Sunrise,1995,238105,201
+8.1,Prisoners,2013,526273,202
+8.1,The Bandit,1996,55425,203
+8.1,Mad Max: Fury Road,2015,780910,204
+8.1,Neon Genesis Evangelion: The End of Evangelion,1997,27112,205
+8.1,Hachi: A Dog's Tale,2009,223390,206
+8.1,Rush,2013,393437,207
+8.1,The Wages of Fear,1953,48247,208
+8.1,Logan,2017,560270,209
+8.1,The 400 Blows,1959,92306,210
+8.1,Catch Me If You Can,2002,719378,211
+8.1,Andrei Rublev,1966,38883,212
+8.1,Spotlight,2015,365110,213
+8.1,Amores Perros,2000,207054,214
+8.1,Harry Potter and the Deathly Hallows: Part 2,2011,691835,215
+8.1,The Passion of Joan of Arc,1928,40719,216
+8.1,Nausicaä of the Valley of the Wind,1984,128266,217
+8.0,The Princess Bride,1987,358637,218
+8.0,Barry Lyndon,1975,132500,219
+8.0,Rocky,1976,472684,220
+8.0,Butch Cassidy and the Sundance Kid,1969,187270,221
+8.0,Rang De Basanti,2006,100666,222
+8.0,"Monsters, Inc.",2001,739359,223
+8.0,Dead Poets Society,1989,369601,224
+8.0,The Grapes of Wrath,1940,80869,225
+8.0,The Maltese Falcon,1941,140489,226
+8.0,The Terminator,1984,729960,227
+8.0,The Handmaiden,2016,79272,228
+8.0,La Haine,1995,131970,229
+8.0,Gandhi,1982,207372,230
+8.0,In the Mood for Love,2000,105771,231
+8.0,Donnie Darko,2001,697934,232
+8.0,Diabolique,1955,56630,233
+8.0,Groundhog Day,1993,541383,234
+8.0,The Help,2011,392699,235
+8.0,Raise the Red Lantern,1991,25928,236
+8.0,The Wizard of Oz,1939,352102,237
+8.0,Guardians of the Galaxy,2014,948394,238
+8.0,Jaws,1975,510462,239
+8.0,Before Sunset,2004,208197,240
+8.0,Castle in the Sky,1986,127926,241
+8.0,"Paris, Texas",1984,74686,242
+8.0,Pirates of the Caribbean: The Curse of the Black Pearl,2003,964481,243
+8.0,Akira,1988,139761,244
+8.0,Beauty and the Beast,1991,389769,245
+8.0,Drishyam,2015,54991,246
+8.0,Gangs of Wasseypur,2012,69051,247
+8.0,Three Colors: Red,1994,80241,248
+8.0,The Exorcist,1973,333836,249
+8.0,Lagaan: Once Upon a Time in India,2001,92777,250
